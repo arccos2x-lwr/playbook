@@ -11,11 +11,11 @@
     name: clickhouse 
 ```
 
-![Задание 1](https://github.com/arccos2x-lwr/playbook/blob/main/img/1_01.png)
+![Задание 1](https://github.com/arccos2x-lwr/playbook/blob/main/img/1-01.png)
 
 ## 2. При помощи `ansible-galaxy` скачайте себе эту роль.
 
-![Задание 2](https://github.com/arccos2x-lwr/playbook/blob/main/img/02_01.png)
+![Задание 2](https://github.com/arccos2x-lwr/playbook/blob/main/img/02-01.png)
 
 ## 3. Создайте новый каталог с ролью при помощи `ansible-galaxy role init vector-role`.
 
@@ -27,7 +27,7 @@
 
 ## 7. Повторите шаги 3–6 для LightHouse. Помните, что одна роль должна настраивать один продукт.
 
-![Задание 7](https://github.com/arccos2x-lwr/playbook/blob/main/img/07_01.png)
+![Задание 7](https://github.com/arccos2x-lwr/playbook/blob/main/img/07-01.png)
 
 ## 8. Выложите все roles в репозитории. Проставьте теги, используя семантическую нумерацию. Добавьте roles в `requirements.yml` в playbook.
 
